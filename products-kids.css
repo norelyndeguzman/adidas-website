@@ -8,7 +8,7 @@ body{
     /* Isang image na naka-repeat sa X-axis para magdoble */
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("BGimage/db8252cc-01b4-46d9-967a-bc424f0ce98d.jfif");
+        url("BGIMAGE/db8252cc-01b4-46d9-967a-bc424f0ce98d.jfif");
     
     /* 50% width para magdoble, repeat-x para magkatabi */
     background-size: 50% 100%;
